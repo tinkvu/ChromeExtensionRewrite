@@ -2,4 +2,4 @@
 A chrome extension which rewrites your texts, messages in the way you want using Text Models
 
 
-![Diagram](https://github.com/tinkvu/ChromeExtensionRewrite/blob/main/chromeExtension.drawio.png)
+[Diagram](https://github.com/tinkvu/ChromeExtensionRewrite/blob/main/chromeExtension.drawio.png)
